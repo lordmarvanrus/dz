@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccfa6edf-7afe-48ea-9019-106be2eb484c" name="Changes" comment="Мой первый коммит" />
+    <list default="true" id="ccfa6edf-7afe-48ea-9019-106be2eb484c" name="Changes" comment="Мой второй коммит" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652451899605</updated>
-      <workItem from="1652451901005" duration="298000" />
+      <workItem from="1652451901005" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="Мой первый коммит">
       <created>1652452188909</created>
@@ -43,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652452188909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Мой второй коммит">
+      <created>1652452479033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652452479033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Мой первый коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мой первый коммит" />
+    <MESSAGE value="Мой второй коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Мой второй коммит" />
   </component>
 </project>
